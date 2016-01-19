@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/vazquecm/utility-functions.git"
   },
-  "author": Carmen Vazquez-Marin vazquecm@gmail.com
+  "author": "Carmen Vazquez-Marin vazquecm@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vazquecm/utility-functions/issues"
   },
-  "homepage": "https://github.com/vazquecm/utility-functions#readme"
+  "homepage": "https://github.com/vazquecm/utility-functions#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
 }
